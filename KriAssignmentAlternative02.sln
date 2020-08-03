@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "KriAssignmentAlternative02", "KriAssignmentAlternative02.ccproj", "{50DBBF66-D078-44C4-8C46-8CF8DDB3133C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{0ED9CDE1-8CFA-4A3C-BFDC-81BDFFE9FB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50DBBF66-D078-44C4-8C46-8CF8DDB3133C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DBBF66-D078-44C4-8C46-8CF8DDB3133C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DBBF66-D078-44C4-8C46-8CF8DDB3133C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DBBF66-D078-44C4-8C46-8CF8DDB3133C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED9CDE1-8CFA-4A3C-BFDC-81BDFFE9FB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED9CDE1-8CFA-4A3C-BFDC-81BDFFE9FB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED9CDE1-8CFA-4A3C-BFDC-81BDFFE9FB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED9CDE1-8CFA-4A3C-BFDC-81BDFFE9FB19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A8EE070-ECF9-4B3A-91CB-8ECF66AD8E06}
+	EndGlobalSection
+EndGlobal
